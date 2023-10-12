@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIS.iml" filepath="$PROJECT_DIR$/DIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS Lektion 14-15/DIS Lektion 14-15.iml" filepath="$PROJECT_DIR$/DIS Lektion 14-15/DIS Lektion 14-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS Lektion 17/DIS Lektion 17.iml" filepath="$PROJECT_DIR$/DIS Lektion 17/DIS Lektion 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS Lektion 23/DIS Lektion 23.iml" filepath="$PROJECT_DIR$/DIS Lektion 23/DIS Lektion 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS Lektion 3/DIS Lektion 3.iml" filepath="$PROJECT_DIR$/DIS Lektion 3/DIS Lektion 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS Lektion 4/DIS Lektion 4.iml" filepath="$PROJECT_DIR$/DIS Lektion 4/DIS Lektion 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS Lektion 5/DIS Lektion 5.iml" filepath="$PROJECT_DIR$/DIS Lektion 5/DIS Lektion 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS Lektion 6/DIS Lektion 6.iml" filepath="$PROJECT_DIR$/DIS Lektion 6/DIS Lektion 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS Lektion 9/DIS Lektion 9.iml" filepath="$PROJECT_DIR$/DIS Lektion 9/DIS Lektion 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS Projekt/DIS Projekt.iml" filepath="$PROJECT_DIR$/DIS Projekt/DIS Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bombe-spil/bombe-spil.iml" filepath="$PROJECT_DIR$/bombe-spil/bombe-spil.iml" />
+    </modules>
+  </component>
+</project>
